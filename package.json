@@ -1,0 +1,14 @@
+{
+  "name": "marcin-live-week-4",
+  "version": "0.6.0",
+  "description": "just-Live",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
